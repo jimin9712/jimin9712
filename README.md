@@ -8,7 +8,7 @@
 👶 2000.06.02 <br>
 📞 010-5392-9712 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:ljm21000@gmail.com) <span><a href=""><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seinee114@gmail.com)](mailto:ljm21000@gmail.com) <span><a href="https://orange-asteroid-796.notion.site/14934fcd241a8086b3affe5b43c8f44f?pvs=73"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
